@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp5", "WinFormsApp5\WinFormsApp5.csproj", "{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ministry of  taxes", "ministry of  taxes\ministry of  taxes.vdproj", "{E7CEC5C4-B18A-43BE-9793-605D72D9DA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		aX|Any CPU = aX|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}.aX|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}.aX|Any CPU.Build.0 = Debug|Any CPU
+		{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B60E7B-F182-4DA0-81F6-0EEF512C3033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CEC5C4-B18A-43BE-9793-605D72D9DA72}.aX|Any CPU.ActiveCfg = Debug
+		{E7CEC5C4-B18A-43BE-9793-605D72D9DA72}.aX|Any CPU.Build.0 = Debug
+		{E7CEC5C4-B18A-43BE-9793-605D72D9DA72}.Debug|Any CPU.ActiveCfg = Release
+		{E7CEC5C4-B18A-43BE-9793-605D72D9DA72}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA0D232-14DE-453A-98EF-E922013821D8}
+	EndGlobalSection
+EndGlobal
